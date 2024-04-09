@@ -1,9 +1,33 @@
-# React + Vite
+# Contact Management App with React Router
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is aimed at gaining experience in building a React application using React Router for routing and navigation.
 
-Currently, two official plugins are available:
+# Objective
+The main objective of this project is to create a simple contact management app that utilizes React Router for handling routing and navigation. The app will allow users to manage a list of contacts, including adding, editing, and deleting contacts.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# react-contact-manager
+Getting Started
+Follow these steps to run the project locally:
+
+Clone the repository:
+
+git clone <repository_url>
+Install dependencies:
+
+npm install
+Run the development server:
+
+npm run dev
+Open your browser and navigate to http://localhost:3000 to view the app.
+
+# Technologies Used
+React
+Vite
+React Router DOM
+JavaScript
+HTML
+CSS
+Contributing
+Contributions are welcome! If you have any suggestions or improvements, feel free to submit a pull request.
+
+License
+This project is licensed under the MIT License.
